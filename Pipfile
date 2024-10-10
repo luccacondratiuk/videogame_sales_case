@@ -16,4 +16,4 @@ plotly-express = "*"
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.6"
+python_full_version = "3.12.4"
